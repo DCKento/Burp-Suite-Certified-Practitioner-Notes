@@ -65,7 +65,7 @@ Remember that parameters in the body can also be sent as URL parameters, this mi
 
 pay attention to the quotes and encoding
 
-"><s>
+" > < s > 
 
 XSS payload and encoding tips:
 
