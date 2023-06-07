@@ -1,7 +1,5 @@
 # Vuln Entry Points
 
-![Untitled](Vuln%20Entry%20Points%205fca9084eb6a4f71b039c6d642c17da6/Untitled.png)
-
 ## Stage 1: Gaining access to a user
 
 ### List of possible vulns and the ‘hooks’ for exploitation:
