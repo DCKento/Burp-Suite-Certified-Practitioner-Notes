@@ -1,4 +1,4 @@
-# Burp-Suite-Certified-Practitioner-Note
+# Burp-Suite-Certified-Practitioner-Notes
 
 Techniques for each stages
 
